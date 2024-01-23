@@ -1,6 +1,7 @@
 # Aura
 
 
-![image](https://github.com/44erHaze/Aura/assets/142980192/5cbc21ad-7e8c-436d-8db1-d5a93b83b426)
-(https://github.com/44erHaze/Aura/assets/142980192/3d11ad83-aaf2-4594-b301-9769ab55e57e)
+Anmeldung per google, E-Mail oder Organisations SSO
+![1](https://github.com/44erHaze/Aura/assets/142980192/e29087e3-70d3-457c-912d-c15df2967d31)
+
 
