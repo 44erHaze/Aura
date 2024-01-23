@@ -1,5 +1,16 @@
 # Aura
 
+# Inhaltsverzeichnis
+Anmeldung 
+Plan auswählen
+Instanz erstellen
+Instanz aufrufen
+Demo
+
+
+
+![image](https://github.com/44erHaze/Aura/assets/142980192/59b3d2c6-4b45-46e2-a86a-c9cd4b4e7379)
+
 
 Anmeldung per google, E-Mail oder Organisations SSO
 
