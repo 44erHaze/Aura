@@ -1,11 +1,11 @@
 # Aura
 
 # Inhaltsverzeichnis
-Anmeldung 
-Plan auswählen
-Instanz erstellen
-Instanz aufrufen
-Demo
+# Anmeldung 
+# Plan auswählen
+# Instanz erstellen
+# Instanz aufrufen
+# Demo
 
 
 
